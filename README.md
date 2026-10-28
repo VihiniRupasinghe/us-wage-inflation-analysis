@@ -25,7 +25,11 @@ Are American workers earning more in real terms, or has inflation reduced their 
 5. Build a dashboard to communicate the findings.
 
 ## Project Status
-In progress — Week 1: Data collection and GitHub setup.
+In Progress — Week 2 completed.
+
+Completed Excel analysis of U.S. hourly wages, inflation, real wage growth, and purchasing power. Created two charts comparing economic trends from 2015 to 2026.
+
+Next: Python data analysis, SQL, and Power BI dashboard.
 
 ## Planned Deliverables
 - Cleaned dataset
@@ -46,3 +50,10 @@ This chart compares the annual inflation rate with inflation-adjusted wage growt
 ![Nominal vs. Real Wage Index](nominal_vs_real_wage_index.png)
 
 Both wage indexes start at 100 in January 2015, allowing us to compare wage growth before and after adjusting for inflation.
+
+## Data Limitations
+
+- The October 2025 CPI observation is missing from the dataset, so inflation-adjusted wage calculations for that month are left blank rather than treated as zero.
+- The analysis uses average hourly earnings for U.S. private-sector employees, which may not represent every worker's experience.
+- The Consumer Price Index measures average price changes and does not reflect every household's individual spending patterns.
+- This project analyzes historical relationships and does not establish that inflation caused changes in nominal wage growth.
