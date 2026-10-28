@@ -33,3 +33,16 @@ In progress — Week 1: Data collection and GitHub setup.
 - SQL queries
 - Power BI dashboard
 - Summary of findings and limitations
+## Data Visualizations
+
+### 1. Inflation vs. Real Wage Growth
+
+![Inflation vs. Real Wage Growth](inflation_vs_real_wage_growth.png)
+
+This chart compares the annual inflation rate with inflation-adjusted wage growth in the United States.
+
+### 2. Nominal vs. Real Wage Index
+
+![Nominal vs. Real Wage Index](nominal_vs_real_wage_index.png)
+
+Both wage indexes start at 100 in January 2015, allowing us to compare wage growth before and after adjusting for inflation.
